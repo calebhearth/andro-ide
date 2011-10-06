@@ -1,0 +1,24 @@
+text editor:
+tabbed files
+  Horizontal View Swiping with ViewPager?
+tree view for project files
+syntax highlighting
+automatic block indentation
+automatic close of blocks
+improved highlighting
+go to line
+go to definition if we've parsed something as a class or function or variable.  At least open the right file.
+
+programmer's keyboard:
+special characters ()[]{}|!@#$%
+language selection
+  press and hold to change
+  autocomplete
+  change layout of special characters
+    $ is huge in php and perl, but no big deal in python
+shortcuts for select word, select line, delete line, go to line, 
+  So how about a swype-key like thing.
+select key
+  one tap is the word
+  two taps for line
+  basically, what the mouse does but shift everything down one tap because we don't want to move the cursor with it.
